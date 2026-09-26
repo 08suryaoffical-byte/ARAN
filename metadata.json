@@ -1,0 +1,10 @@
+{
+  "name": "ARAN - AI Care Companion for Seniors",
+  "description": "Every Heartbeat Deserves Safety. An AI-powered care companion for seniors with scheduled check-ins, multi-sensor simulation, caregiver coordination, Tamil/Tanglish voice assistance, and emergency escalation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
